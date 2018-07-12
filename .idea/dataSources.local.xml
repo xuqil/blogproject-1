@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="blogs_bk@localhost" uuid="35322bb9-60f7-444e-833d-80018b486389">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <introspection-schemas>*:blogs</introspection-schemas>
+    </data-source>
+  </component>
+</project>
